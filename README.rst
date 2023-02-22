@@ -1,8 +1,8 @@
 aiotg
 =====
 
-.. image:: https://travis-ci.org/szastupov/aiotg.svg?branch=master
-    :target: https://travis-ci.org/szastupov/aiotg
+.. image:: https://github.com/kozalosev/aiotg/actions/workflows/ci-build.yml/badge.svg
+    :target: https://github.com/kozalosev/aiotg/actions/workflows/ci-build.yml
 
 Asynchronous Python API for building Telegram bots, featuring:
 
